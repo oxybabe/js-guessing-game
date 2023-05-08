@@ -1,0 +1,22 @@
+
+h1 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    font-size: 80px;
+    text-align: center;
+    
+}
+body {
+    background-color: lightslategray;
+    text-align: center;
+}
+button {
+    background-color: cadetblue;
+    font-size: 30px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: black;
+}
+button:hover {
+    color: aliceblue;
+    
+}
